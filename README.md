@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,7 +47,7 @@
 ![Screenshot 2025-04-24 104108](https://github.com/user-attachments/assets/06df61de-b435-48dd-8c95-c2b5cad2fdc5)
 ![Screenshot 2025-04-24 104128](https://github.com/user-attachments/assets/b2408ee7-6716-48b3-b7d4-b46417c5760e)
 
-### Name:KARUNIYA
+### Name:KARUNIYA M
 ### Register Number:212223240068
 
 ## RESULT:
